@@ -10,7 +10,7 @@
 // }
 
 Console.WriteLine("Ввести число: ");
-int number = Convert.ToInt32(Console.ReadLine());
+int number = Math.Abs(Convert.ToInt32(Console.ReadLine()));
 int count = -number;
 while(count<=number)
 {
