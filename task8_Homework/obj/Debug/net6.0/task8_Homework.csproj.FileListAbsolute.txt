@@ -1,0 +1,15 @@
+D:\Kira\Обучение Python\5. Знакомство с языками программирования\Семинар 1\NEW_1\task8_Homework\bin\Debug\net6.0\task8_Homework.exe
+D:\Kira\Обучение Python\5. Знакомство с языками программирования\Семинар 1\NEW_1\task8_Homework\bin\Debug\net6.0\task8_Homework.deps.json
+D:\Kira\Обучение Python\5. Знакомство с языками программирования\Семинар 1\NEW_1\task8_Homework\bin\Debug\net6.0\task8_Homework.runtimeconfig.json
+D:\Kira\Обучение Python\5. Знакомство с языками программирования\Семинар 1\NEW_1\task8_Homework\bin\Debug\net6.0\task8_Homework.dll
+D:\Kira\Обучение Python\5. Знакомство с языками программирования\Семинар 1\NEW_1\task8_Homework\bin\Debug\net6.0\task8_Homework.pdb
+D:\Kira\Обучение Python\5. Знакомство с языками программирования\Семинар 1\NEW_1\task8_Homework\obj\Debug\net6.0\task8_Homework.csproj.AssemblyReference.cache
+D:\Kira\Обучение Python\5. Знакомство с языками программирования\Семинар 1\NEW_1\task8_Homework\obj\Debug\net6.0\task8_Homework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kira\Обучение Python\5. Знакомство с языками программирования\Семинар 1\NEW_1\task8_Homework\obj\Debug\net6.0\task8_Homework.AssemblyInfoInputs.cache
+D:\Kira\Обучение Python\5. Знакомство с языками программирования\Семинар 1\NEW_1\task8_Homework\obj\Debug\net6.0\task8_Homework.AssemblyInfo.cs
+D:\Kira\Обучение Python\5. Знакомство с языками программирования\Семинар 1\NEW_1\task8_Homework\obj\Debug\net6.0\task8_Homework.csproj.CoreCompileInputs.cache
+D:\Kira\Обучение Python\5. Знакомство с языками программирования\Семинар 1\NEW_1\task8_Homework\obj\Debug\net6.0\task8_Homework.dll
+D:\Kira\Обучение Python\5. Знакомство с языками программирования\Семинар 1\NEW_1\task8_Homework\obj\Debug\net6.0\refint\task8_Homework.dll
+D:\Kira\Обучение Python\5. Знакомство с языками программирования\Семинар 1\NEW_1\task8_Homework\obj\Debug\net6.0\task8_Homework.pdb
+D:\Kira\Обучение Python\5. Знакомство с языками программирования\Семинар 1\NEW_1\task8_Homework\obj\Debug\net6.0\task8_Homework.genruntimeconfig.cache
+D:\Kira\Обучение Python\5. Знакомство с языками программирования\Семинар 1\NEW_1\task8_Homework\obj\Debug\net6.0\ref\task8_Homework.dll
