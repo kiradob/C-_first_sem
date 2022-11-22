@@ -1,0 +1,15 @@
+D:\Kira\Обучение Python\5. Знакомство с языками программирования\Семинар 1\NEW_1\task9\bin\Debug\net6.0\task9.exe
+D:\Kira\Обучение Python\5. Знакомство с языками программирования\Семинар 1\NEW_1\task9\bin\Debug\net6.0\task9.deps.json
+D:\Kira\Обучение Python\5. Знакомство с языками программирования\Семинар 1\NEW_1\task9\bin\Debug\net6.0\task9.runtimeconfig.json
+D:\Kira\Обучение Python\5. Знакомство с языками программирования\Семинар 1\NEW_1\task9\bin\Debug\net6.0\task9.dll
+D:\Kira\Обучение Python\5. Знакомство с языками программирования\Семинар 1\NEW_1\task9\bin\Debug\net6.0\task9.pdb
+D:\Kira\Обучение Python\5. Знакомство с языками программирования\Семинар 1\NEW_1\task9\obj\Debug\net6.0\task9.csproj.AssemblyReference.cache
+D:\Kira\Обучение Python\5. Знакомство с языками программирования\Семинар 1\NEW_1\task9\obj\Debug\net6.0\task9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kira\Обучение Python\5. Знакомство с языками программирования\Семинар 1\NEW_1\task9\obj\Debug\net6.0\task9.AssemblyInfoInputs.cache
+D:\Kira\Обучение Python\5. Знакомство с языками программирования\Семинар 1\NEW_1\task9\obj\Debug\net6.0\task9.AssemblyInfo.cs
+D:\Kira\Обучение Python\5. Знакомство с языками программирования\Семинар 1\NEW_1\task9\obj\Debug\net6.0\task9.csproj.CoreCompileInputs.cache
+D:\Kira\Обучение Python\5. Знакомство с языками программирования\Семинар 1\NEW_1\task9\obj\Debug\net6.0\task9.dll
+D:\Kira\Обучение Python\5. Знакомство с языками программирования\Семинар 1\NEW_1\task9\obj\Debug\net6.0\refint\task9.dll
+D:\Kira\Обучение Python\5. Знакомство с языками программирования\Семинар 1\NEW_1\task9\obj\Debug\net6.0\task9.pdb
+D:\Kira\Обучение Python\5. Знакомство с языками программирования\Семинар 1\NEW_1\task9\obj\Debug\net6.0\task9.genruntimeconfig.cache
+D:\Kira\Обучение Python\5. Знакомство с языками программирования\Семинар 1\NEW_1\task9\obj\Debug\net6.0\ref\task9.dll
