@@ -5,22 +5,14 @@
 //8 -> 2, 4, 6, 8
 
 Console.Write("Ввести натуральное число: ");
-int numberA = Convert.ToInt32(Console.ReadLine());
-
-if(numberA % 2 == 0)
+int number = Math.Abs(Convert.ToInt32(Console.ReadLine()));
+int count = 1;
+if(count==1)
 {
-    Console.WriteLine($"Число {numberA} является четным");
+    count += 1;
 }
-else
-{
-Console.WriteLine($"Число {numberA} НЕ является четным");
-}
-
-Console.WriteLine("Ввести натуральное число: ");
-int number = Convert.ToInt32(Console.ReadLine());
-int count = number;
 while(count<=number)
 {
     Console.Write(count+" ");
-    count++;
+    count+=2;
 }
