@@ -6,7 +6,7 @@
 
 
 Console.Write("Ввести трёхзначное число: ");
-int number = Convert.ToInt32(Console.ReadLine());
+int number = Math.Abs(Convert.ToInt32(Console.ReadLine()));
 
 if (number<100 || number>999)
 {
