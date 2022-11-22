@@ -66,4 +66,7 @@ switch (x)
     case 7:
         Console.WriteLine("Сегодня воскресенье");
         break;
-}
+    default:
+        Console.WriteLine("Нет такого дня недели, подумай еще раз");
+        break;
+}   
