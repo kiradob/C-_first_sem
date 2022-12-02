@@ -16,7 +16,7 @@ Console.Write("Массив: ");
 PrintArray(array);
 int sum=0;
 
-for (int i=0; i<array.Length; i+=2)
+for (int i=1; i<array.Length; i+=2)
     sum=sum+array[i];
 
     Console.WriteLine($"В массиве {array.Length} чисел, сумма элементов на нечётных позициях = {sum}");
