@@ -16,9 +16,6 @@ Console.Write("Введите длину массива: ");
 int num=Convert.ToInt32(Console.ReadLine());
 int[] array=FillArray(num);
 
-// int sumPositive=0;
-// int sumNegative=0;
-
 Console.WriteLine(string.Join(",", array));
 
 for(int i=0; i<array.Length; i++)
