@@ -11,7 +11,7 @@ void Numbers (int num)
         return;
     }
     count++;
-    Console.Write($"{count}");
+    Console.Write($"{count} ");
     Numbers(num-1);
 }
 Console.Write("Введите число: ");
